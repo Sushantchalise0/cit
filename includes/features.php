@@ -2,8 +2,9 @@
     <section id="features">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Awesome Features</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <h2 class="section-title text-center wow fadeInDown">Our Objectives</h2>
+                <p class="text-center wow fadeInDown">One of the major objectives of CIT is to create a well-equipped environment for development activities related with Information Technology.
+                <br> CIT owns a large number of computers and VSAT station to provide Internet facilities to the students and faculties of IOE.</p>
             </div>
             <div class="row">
                 <div class="col-sm-6 wow fadeInLeft">
